@@ -8,7 +8,7 @@ title: "Documentation"
 type: "docs"
 ---
 
-## Informations générales
+## General information
 
 Pour toute information ne figurant pas dans le présent document, consultez le <a href="http://www.unf-montreal.ca" target="blank"><b>site web de l’UNF</b></a> ou envoyez un courriel à l'adresse suivante **[support.unf](mailto:support.unf@criugm.qc.ca?subject=Information)**.
 
