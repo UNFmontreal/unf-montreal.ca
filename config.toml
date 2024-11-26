@@ -108,11 +108,17 @@ hasChildren = true
   URL = "documentation/facility/hardware_software"
   weight = 4
 
-   [[Languages.fr.menu.main]]
+  [[Languages.fr.menu.main]]
   parent = "Installations"
   name = "Calendrier de réservation"
   URL = "https://reservation.unf-montreal.ca/Web/index.php?"
   weight = 5
+
+  [[Languages.fr.menu.main]]
+  parent = "Installations"
+  name = "Neurothèque"
+  URL = "documentation/facility/neurotheque"
+  weight = 6
 
 [[Languages.fr.menu.main]]
 name = "Nouvelles"
@@ -302,6 +308,12 @@ hasChildren = true
   name = "Reservation calendar"
   URL = "https://reservation.unf-montreal.ca/Web/schedule.php"
   weight = 5
+
+  [[menu.main]]
+  parent = "Facility"
+  name = "Neurotheque"
+  URL = "documentation/facility/neurotheque"
+  weight = 6
 
 [[menu.main]]
 name = "News"
