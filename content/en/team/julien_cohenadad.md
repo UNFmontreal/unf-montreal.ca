@@ -8,9 +8,9 @@ draft: false
 # teacher portrait
 # image: "images/team/julien_cohenadad.jpg"
 # course
-course: "Co-Direction"
+course: "Direction"
 # biography
-bio: "Julien Cohen-Adad, PhD, is an Associate director of the Fonctional Neuroimaging Unit, Research Center of the Institut universitaire de gériatrie de Montréal, the co-investigator, along with Prof. Nikola Stikov, of the NeuroPoly Lab and an associate professor at the Polytechnique Montreal"
+bio: "Julien Cohen-Adad, PhD, is the Scientific Director of the Fonctional Neuroimaging Unit, Research Center of the Institut universitaire de gériatrie de Montréal, the co-investigator, along with Prof. Nikola Stikov, of the NeuroPoly Lab and an associate professor at the Polytechnique Montreal"
 # interest
 # interest: ["Neurosciences","Quantitative Magnetic Resonance Imaging","Structure and brain function"]
 # contact info
@@ -46,4 +46,4 @@ type: "teacher"
 
 ### About me
 
-Dr Cohen-Adad is an MR physicist with over 12 years of experience in advance MRI methods for quantitative assessment of the brain and spinal structure and function. He is also adjunct professor of neuroscience at the University of Montreal. In 2015 he received a Canada Research Chair (in Quantitative Magnetic Resonance Imaging) and was also awarded the competitive Foundation Grant from the Canadian Institutes of Health Research.
+Dr Cohen-Adad is an MR physicist with over a decade of experience in advanced MRI methods for quantitative assessment of the brain and spinal structure and function. He is also adjunct professor of neuroscience at the University of Montreal. In 2015 he received a Canada Research Chair (in Quantitative Magnetic Resonance Imaging) and was also awarded the competitive Foundation Grant from the Canadian Institutes of Health Research.

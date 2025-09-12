@@ -8,7 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # teacher portrait
 image: "images/team/lune_bellec.jpg"
 # course
-course: "Direction"
+course: "Co-Direction"
 # biography
 bio: "Lune Bellec, PhD, is associated director for neuroinformatics of the Fonctional Neuroimaging Unit, Research Center of the Institut universitaire de gériatrie de Montréal, the principal investigator of the SIMEXP lab and an associate professor at the psychology department at the University of Montréal."
 # interest
