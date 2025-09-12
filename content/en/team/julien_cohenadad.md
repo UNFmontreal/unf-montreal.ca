@@ -6,7 +6,7 @@ draft: false
 # meta description
 # description : "Ceci est redondant, j'enlèverais l'item description si cela ne fait pas trop laid."
 # teacher portrait
-# image: "images/team/julien_cohenadad.jpg"
+image: "images/team/julien_cohen-adad.jpg"
 # course
 course: "Direction"
 # biography
