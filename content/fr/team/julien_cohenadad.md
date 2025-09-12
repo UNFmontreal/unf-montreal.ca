@@ -6,11 +6,11 @@ draft: false
 # meta description
 # description : "Ceci est redondant, j'enlèverais l'item description si cela ne fait pas trop laid."
 # teacher portrait
-# image: "images/team/julien_cohenadad.jpg"
+image: "images/team/julien_cohen-adad.jpg"
 # course
-course: "Co-Direction"
+course: "Direction"
 # biography
-bio: "Julien Cohen-Adad, Ph.D., est directeur adjoint de l'Unité de neuroimagerie fonctionnelle, Centre de recherche de l'Institut universitaire de gériatrie de Montréal, co-directeur du laboratoire NeuroPoly avec Prof. Nikola Stikov et professeur agrégé à la Polytechnique Montréal"
+bio: "Julien Cohen-Adad, Ph.D., est directeur scientifique de l'Unité de neuroimagerie fonctionnelle, Centre de recherche de l'Institut universitaire de gériatrie de Montréal, co-directeur du laboratoire NeuroPoly avec Prof. Nikola Stikov et professeur agrégé à la Polytechnique Montréal"
 # interest
 interest: ["Neurosciences","Imagerie quantitative par résonance magnétique","Structure et fonction du cerveau"]
 # contact info
@@ -46,4 +46,4 @@ type: "teacher"
 
 ### À propos de moi
 
-Dr Cohen-Adad est un physicien IRM qui possède plus de 12 ans d'expérience dans les méthodes d'IRM avancées pour l'évaluation quantitative de la structure et de la fonction cérébrale et vertébrale. Il est également professeur adjoint de neuroscience à l'Université de Montréal. En 2015, Dr Cohen-Adad a reçu une Chaire de recherche du Canada en imagerie par résonance magnétique quantitative. Il a également reçu la subvention la subvention *Fondation* des Instituts de recherche en santé du Canada.
+Dr Cohen-Adad est un physicien IRM qui possède plus de 10 ans d'expérience dans les méthodes d'IRM avancées pour l'évaluation quantitative de la structure et de la fonction cérébrale et vertébrale. Il est également professeur adjoint de neuroscience à l'Université de Montréal. En 2015, Dr Cohen-Adad a reçu une Chaire de recherche du Canada en imagerie par résonance magnétique quantitative. Il a également reçu la subvention la subvention *Fondation* des Instituts de recherche en santé du Canada.
