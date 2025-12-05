@@ -26,9 +26,9 @@ __Additional information__
 - All cancellations made with less than 7 days' notice will be billed, unless the canceled time slot is taken over in whole by another team. If only a portion  of the time slot is taken over by another team, the unused portion will be billed to the team that made the cancellation.
 -  Cancellations made more than 7 days in advance will not be billed, up to a maximum of 2 unbilled cancellations per week, per project. The 3rd and subsequent cancellations during the same week will be billed at the full rate, whether or not the time slot vacated is taken up by another team or project. The purpose of this rule is to deter teams from blocking  time slots in advance without first ensuring that they can use them. This rule will come into effect on January 1st, 2024.
 - Any excess of the use of the MRI room or the control room over your reserved time will be billed in 15 minute increments.
-- All new projects are entitled to a free "pilot" period of 1 to 3 hours (maximum) in order to test and optimize your acquisition parameters and sequences and adapt them to the UNF environment. No participants in your study can be involved in the "pilot" stage and the "pilot" data will not be stored on our servers. If your project requires more pilot testing time, you must refer to the UNF Scientific Director, Dr. Pierre Bellec.
+- All new projects are entitled to a free "pilot" period of 1 to 3 hours (maximum) in order to test and optimize your acquisition parameters and sequences and adapt them to the UNF environment. No participants in your study can be involved in the "pilot" stage and the "pilot" data will not be stored on our servers. If your project requires more pilot testing time, you must refer to the UNF Scientific Director, Dr. Julien Cohen-Adad.
 - The use of the platform outside normal hours will only be allowed for projects unable to perform analyzes during normal hours due to the nature of the experiments or the population, requires higher user fees as well as a formal agreement with the director of the UNF.
-- Any special needs should be discussed with the scientific director of the UNF, Dr Pierre Bellec.
+- Any special needs should be discussed with the scientific director of the UNF, Dr Julien Cohen-Adad.
 
 
 
