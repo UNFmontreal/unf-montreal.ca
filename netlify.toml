@@ -8,7 +8,7 @@
 
 # "production" environment specific build settings
 [context.production.environment]
-  HUGO_VERSION = "v0.157.0"
+  HUGO_VERSION = "v0.68.1"
   HUGO_THEME = "docsy"
 
 [context.deploy-preview]
