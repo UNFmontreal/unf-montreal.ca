@@ -8,8 +8,8 @@
 
 # "production" environment specific build settings
 [context.production.environment]
-  HUGO_VERSION = "v0.68.1"
-  HUGO_THEME = "docsy"
+  HUGO_VERSION = "0.68.1"
+  HUGO_THEME = "educenter"
 
 [context.deploy-preview]
-  command = "npm i && npm install postcss-cli && hugo --buildFuture -b $DEPLOY_PRIME_URL"
+  command = "hugo --buildFuture -b $DEPLOY_PRIME_URL"
