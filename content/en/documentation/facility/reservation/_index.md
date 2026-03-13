@@ -10,7 +10,7 @@ type: 'docs'
 
 In order to be able to reserve the MRI, the simulation room or the testing room you must have an [__account__](https://unf-montreal.ca/en/documentation/welcome/account). Once you have it, you can submit reservation requests via the [__web calendar__](https://reservation.unf-montreal.ca/Web/index.php?redirect=%2FWeb%2Fschedule.php%3F).
 
-Note: Under the `session name` you will need to enter a study suffix that is listed in this [JSON file]([url](https://github.com/UNFmontreal/bids_configs/blob/master/studies.json)). Look for the fields that start with your group name.
+Note: Under the `session name` you will need to enter a study suffix that is listed in this [JSON file](https://github.com/UNFmontreal/bids_configs/blob/master/studies.json). Look for the fields that start with your group name.
 
 
 ## The different facilities
